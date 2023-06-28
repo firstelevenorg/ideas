@@ -1,5 +1,10 @@
 {
-  "index": "Introduction",
+  "index": {
+    "title": "Introduction",
+    "theme": {
+      "layout": "full"
+    }
+  },
   "fintech": "FinTech - Finance Technology",
   "transtech": "TransTech - Transportation",
   "proptech": "PropTech - Property",

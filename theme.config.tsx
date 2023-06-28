@@ -9,7 +9,7 @@ const config: DocsThemeConfig = {
   chat: {
     link: 'https://discord.gg/Dpvx8dzuPg',
   },
-  docsRepositoryBase: 'https://github.com/firstelevenorg/ideas',
+  docsRepositoryBase: 'https://github.com/firstelevenorg/ideas/tree/master',
   footer: {
     text: 'Ideas',
   },
