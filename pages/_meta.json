@@ -1,15 +1,36 @@
 {
   "index": "Introduction",
-  "another": "Another Page",
-  "advanced": "Advanced (A Folder)",
-  "about": {
-    "title": "About",
-    "type": "page"
-  },
-  "contact": {
-    "title": "Contact ↗",
-    "type": "page",
-    "href": "https://twitter.com/shuding_",
-    "newWindow": true
-  }
+  "fintech": "FinTech - Finance Technology",
+  "transtech": "TransTech - Transportation",
+  "proptech": "PropTech - Property",
+  "intertech": "InterTech - Internet",
+  "gigeconomy": "Gig Economy",
+  "teltech": "TelTech - Telecommunication",
+  "gametech": "GameTech - Gaming",
+  "edtech": "EdTech - Education",
+  "cleantech": "CleanTech - Clean Technology",
+  "sotech": "SoTech - Social Technology",
+  "foodtech": "FoodTech - Food Technology",
+  "healthtech": "HealthTech - Health",
+  "setech": "SeTech - Security Technology",
+  "realtech": "RealTech - Real Estate",
+  "phonetech": "PhoneTech - Phone",
+  "biotech": "BioTech - Bio Technology",
+  "bustech": "BusTech - Business Technology",
+  "agritech": "AgriTech - Agricultural",
+  "insurtech": "InsurTech - Insurance",
+  "retailtech": "RetailTech - Retail Technology",
+  "hrtech": "HR Tech - Human Resources",
+  "legaltech": "LegalTech - Legal Technology",
+  "traveltech": "TravelTech - Travel Technology",
+  "energytech": "EnergyTech - Energy",
+  "manufacturingtech": "Manufacturing Technology",
+  "logisticstech": "LogisticsTech - Logistics",
+  "robotics": "Robotics - Robotic Technology",
+  "arvr": "AR/VR - Augmented Reality/Virtual Reality",
+  "iot": "IoT - Internet of Things",
+  "ai": "AI - Artificial Intelligence",
+  "datascience": "Data Science and Analytics",
+  "blockchain": "Blockchain",
+  "cybersecurity": "Cybersecurity Solutions"
 }
