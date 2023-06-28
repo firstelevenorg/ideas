@@ -13,6 +13,11 @@ const config: DocsThemeConfig = {
   footer: {
     text: 'Ideas',
   },
+  useNextSeoProps() {
+     return {
+      titleTemplate: '%s'
+    }
+  },
 }
 
 export default config
