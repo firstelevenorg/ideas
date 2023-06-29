@@ -1,5 +1,7 @@
 Welcome to the library of ideas! This is a public space where we collect app and system ideas that can help Africa. We believe in the ability of collaboration and creativity to solve the region's unique challenges and possibilities.
 
+<a href="https://ideas.firsteleven.co.za/" target="_blank">Ideas Site</a>
+
 ## How to Participate
 
 We invite everyone to share ideas and participate in the discussion. Follow these steps to add your idea:
