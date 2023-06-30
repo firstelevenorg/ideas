@@ -1,0 +1,136 @@
+GameTech – Gaming 
+GAMING + TECHNOLOGY
+African Hero’s, African warriors
+Our own FIFA
+
+
+Github for writers 
+o	The must not be a CLI but more on version control 
+o	Where writer/thinkers can write a book as a collective 
+o	Open source written book
+
+
+Home Cleaning Service App
+o	A Home cleaning service app that will allow users to find and hire a person/service for the cleaning of a particular Home rather than the entire apartment, thus saving money and time.
+o	The is a company already doing this maybe you can invest in them
+Domestic Worker Platform
+o	Salaries 
+o	This is the most important feature of this system, this application introduces a new model. Salaries will be defined based on the household building plan. Each household needs a helper will have to be registered. On the app we will just pull your building plan from the municipality. The bigger the house the higher the rate per will be  
+	Based on your house size 
+	Helper experience 
+	Based on location , traveling time
+
+
+On-Demand Car Wash App  
+o	The on-demand car wash app will give your customers the facility to order a car wash from home, anytime, and anyhow they need it. 
+•	Have people wash your car at night,  
+
+
+Online Flower and Gift Delivery App 
+o	An online flower and gift delivery app where you can schedule deliveries for the upcoming birthdays of your friends, relatives, or anyone else.
+o	The app will automatically choose the best flowers/gift and place an order for home delivery to them on your behalf.
+
+
+Animal App For mating and selling 
+o	Platform to sell dogs
+
+
+Behind the Scenes
+o	An entertainment website where you can have access to your favorite TV shows, movies behind the scenes content. 
+o	Behind the scenes app like YouTube behind scene , we can even supply production - Planning
+	Company 
+	User 
+o	Payment subscription based 
+o	Cater for sign language individuals 
+
+
+Volunteer App
+o	Can with correctional services 
+o	For people who are looking to give their time and help out 
+
+
+
+Asset Management 
+o	System application where normal people can manage their asserts, insurance and policies .
+o	Application where small medium companies can manage their asserts 
+	Have the application joined in with contractors that can get hired to fix things
+o	This application can also go into a lower level where house owners can manage their assets and hire people on the go through the application. 
+o	 Dashboard reporting 
+
+
+
+Sponsorship Platform
+o	A place where companies receive application from applicants
+o	Club, sportsmen’s, anything really looking for sponsorship 
+o	
+
+
+Rent in the Hood 
+o	Tenant Finder And Communication App
+	A tenant finder and communication app that will allow landlords to find and communicate with potential tenants directly without any dealer.
+	It will also allow tenants to communicate with their existing landlords regarding property issues, maintenance requirements, pay rents, etc.
+Other
+o	Make such a system for SA , https://www.tophap.com/ 
+
+
+1 Week Deals 
+o	A platform were items are sold or are on discounted for a week. If they not sold, then they are removed from the site.
+o	Same as one day deal but now for second hand 
+o	It’s neither we buy the stuff or they rate themselves but we need to get an observer to check that stuff like insurance but we need speed on closing deals 
+o	Create a currency that people will use to buy with , like the game applications
+
+
+
+Battery Quick Charge 
+o	Battery that can changer quick but last for long - either it pulls power or it's like umbane ufakwayo
+
+
+
+
+
+o	Beautiful UI for the Email client on Cpanel accounts
+
+
+o	Study linux timetrap and turn it into app for people
+
+
+o	Application planning made simple
+	Made it really simple 
+	Start with defining your entities 
+	Auto generate each entities benefits or functionalise on mind map view
+	Each mind map item has a click where you can elaborate on the (Have an AI that can check wording , it must be short and sweet) the has to be a way of writing  functionality can even have graphics to examplain 
+	When done have an auto generate a word doc or pdf to see the application 
+	Great and export tool to go to figman
+
+
+o	Platform for newly available businesses		Marketplace for Assets 
+	Find a home 
+•	A platform that can populate businesses that were owned by rich individuals that have passed on. So now the company is available and up for sale. So we will display the information for such available companies. And also list down the persons assets that they have left.
+•	you can also display rich people and their assets they own , so you can prepare to create a relationship with them before they die 
+
+	target widows 
+•	House auction, allow people to sell and avail their homes for action 
+•	Have a platform to houses but let us take the pictures for you to show the home in a beautiful matter, we do the matter data for quality, the site has to be mint and have marketing built in and huge ass SEO. 
+•	Have whole sale houses. Have a beautiful search toolbar.
+
+
+
+
+o	CPU Tool
+	build that tool that shuts down unused backgrounds services inactive running software , prompt the user before shutting down
+	Eg , are you still using photoshop as its using 50% of your memory [Yes] and [No]
+
+
+o	Application for imigalelo
+
+
+
+o	A platform for people with information to share their information or research and studies, African history , how Africans used to do things
+
+
+
+o	ArtWork Trading 
+	Just like Efts (block chain), create a trading platform for acts works.
+
+
+
