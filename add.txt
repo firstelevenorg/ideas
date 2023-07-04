@@ -131,6 +131,3 @@ o	A platform for people with information to share their information or research 
 
 o	ArtWork Trading 
 	Just like Efts (block chain), create a trading platform for acts works.
-
-
-
